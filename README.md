@@ -3,4 +3,6 @@
 
 This repo is to demonstrate contribution to open source projects.
 
-It contains a Python file with functino for linear search implemented in it
+It contains a Python file with function for linear search implemented in it
+
+I changes the spellings of "function" in the feature branch.
