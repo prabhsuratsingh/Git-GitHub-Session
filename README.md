@@ -1,5 +1,5 @@
-#Session on Git and Github 
-##By GDSC-GTBIT
+# Session on Git and Github 
+## By GDSC-GTBIT
 
 This repo is to demonstrate contribution to open source projects.
 
