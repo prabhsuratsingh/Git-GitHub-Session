@@ -8,5 +8,10 @@ def linearSearch(list, num):
             return None
         
 list_num = [5,45,21,8,63,9,41,22,10]
+list_num2 = [54,22,100,32,5,8,74,99]
+
 res = linearSearch(list_num, 48)
+res2 = linearSearch(list_num2, 48)
+
 print(f"{res}")
+print(f"{res2}")
