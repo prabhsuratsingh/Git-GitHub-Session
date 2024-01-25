@@ -10,3 +10,4 @@ I changes the spellings of "function" in the feature branch.
 This edit has been made on feature2 branch
 
 this edit is done on master
+This edit has been done on feature3 branch
