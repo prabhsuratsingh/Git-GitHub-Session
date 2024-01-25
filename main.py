@@ -15,3 +15,6 @@ res2 = linearSearch(list_num2, 48)
 
 print(f"{res}")
 print(f"{res2}")
+
+#this comment was added
+#on feature2 branch
